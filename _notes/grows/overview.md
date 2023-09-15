@@ -1,5 +1,6 @@
 ---
 title: GROWSの概要
+origin: https://growsmethod.com/grows_overview.html
 ---
 
 ![](/images/GrowsSchematicColorSeeds.png)
