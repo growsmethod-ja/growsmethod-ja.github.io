@@ -28,9 +28,7 @@ origin: https://growsmethod.com/loops.html
 
 <!-- This seed suggests that you want to view the world through the lens of Systems Thinking, in terms of loops and cycles.  So we’ll look at ways to change your habits to think in terms of Loops, not Lines. -->
 
-この種はシステム思考のレンズを通して、
-ループとサイクルの観点から世界を見るということを示唆している。
-これから**直線ではなくループ**で考えられるように習慣を変える方法を見ていこう。
+この種はシステム思考のレンズを通して、ループとサイクルの観点から世界を見るということを示唆している。これから**直線ではなくループ**で考えられるように習慣を変える方法を見ていこう。
 
 <!-- Next Seed: Organic, not Robotic -->
 
