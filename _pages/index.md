@@ -8,6 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 - [[GROWSの概要]]
+- [[思考ガイド]]
 
 <!-- ## .
  !-- - Continuous Paradigm
