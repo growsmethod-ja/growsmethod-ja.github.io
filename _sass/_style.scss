@@ -144,3 +144,16 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+ul.task-list {
+    background-color: lightyellow;
+    padding: 1rem;
+}
+
+li.task-list-item {
+    list-style: none;
+}
+
+.task-list-item-checkbox {
+    margin: 0.5rem;
+}
