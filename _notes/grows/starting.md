@@ -15,9 +15,9 @@ GROWSは規範的なものではない。何が機能し、何が機能しない
 <!-- Begin with Agree To Try.  Although everyone in the organization will not be involved at first, you need to get agreement from the participants who will be involved in and affected by your pilot.  Make sure you’re ready to begin, as described in this habit. -->
 2. [[試すことに合意を得る]]ところから始める。最初から組織の全員が関与するわけではないだろうが、今後関与しそうな人やパイロットプログラムの影響を受けそうな人からは合意を得る必要がある。この習慣で説明されているように、始める準備ができているかどうかを確認しよう。
 <!-- As part of agreeing to try, leaders and executives must commit to establish Psychological Safety. If team members don’t feel safe, do not proceed until they do. We recommend using anonymous surveys as a first step in evaluating team’s perceptions. -->
-3. 合意の一貫として、リーダーや経営陣は[[心理的安全性]]を確保することに尽力する必要がある。**チームメンバーが安全を感じていなければ、安全が感じられるまで進めるべきではない**。チームの認識を確認する最初のステップとして、匿名のアンケートを使用することをお勧めする。
+3. 合意の一貫として、リーダーや経営陣は[[心理的安全性を作る]]ことに尽力する必要がある。**チームメンバーが安全を感じていなければ、安全が感じられるまで進めるべきではない**。チームの認識を確認する最初のステップとして、匿名のアンケートを使用することをお勧めする。
 <!-- Use Answers from Experiments as the fundamental engine to introduce new habits into your organization. -->
-4. 組織に新しい習慣を導入するときには、基本となるエンジンとして[[実験からの回答]]を使用する。
+4. 組織に新しい習慣を導入するときには、[[実験から回答する]]ことをエンジンとして使用する。
 <!-- Unless otherwise specified, the default duration for your first experiment is two weeks and should not be longer than two weeks. -->
 5. 特に指定がない限り、最初の実験の期間は2週間である。2週間を超えるべきではない。
 <!-- Start with the habits in Stage 1, Safety & Hygiene. If you are already using a habit, make sure that you’re getting the feedback and results as expected and defined by the habit before proceeding. If not, start over. -->

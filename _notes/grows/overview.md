@@ -15,7 +15,7 @@ origin: https://growsmethod.com/grows_overview.html
  !-- everyone has a part to play, and everyone depends on everyone else to achieve our common goals. -->
 - **すべての人を包含する**：GROWSは、すべての人（経営陣、開発者、QA、テスター、アナリスト、デザイナー、ユーザー）が共に働く方法である。すべての人が役割を持っており、共通のゴールを達成するためにすべての人が他の人に依存している。
 <!-- Generate Success from Seeds: GROWS develops habits and approaches from following a small number of generative seeds -->
-- **種から成功を生み出す**：GROWSは、以下のいくつかの生成的な種から習慣とアプローチを発展させる：
+- **[[GROWSの種]]から成功を生み出す**：GROWSは、以下のいくつかの生成的な種から習慣とアプローチを発展させる：
   - [[直線ではなくループ]]
   - [[ロボット的ではなく有機的]]
   - [[偶然ではなく意図的]]
@@ -28,7 +28,7 @@ origin: https://growsmethod.com/grows_overview.html
  !-- Tracking evolution with Wardley Maps
  !-- Dynamic Models for Budgeting and Accounting
  !-- …and the Continuous Paradigm -->
-- **思考ガイド（Thinking Guide&trade;）**：GROWSは、成功に必要とされる困難で重要な分野のガイダンスを提供する。それには以下のようなトピックが含まれる。
+- **[[思考ガイド]]（Thinking Guide&trade;）**：GROWSは、成功に必要とされる困難で重要な分野のガイダンスを提供する。それには以下のようなトピックが含まれる。
    - システム思考モデル
    - クリティカル思考スキル
    - 心理的サポートの成長
