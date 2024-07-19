@@ -1,5 +1,5 @@
 ---
-title: GROWSから始める
+title: GROWSを始める
 origin: https://growsmethod.com/grows_starting.html
 ---
 
@@ -13,7 +13,7 @@ GROWSは規範的なものではない。何が機能し、何が機能しない
 <!-- Take small steps. Do not try and change everything, all at once, overnight. Start with a pilot program. In the spirit of Tracer Bullet Development your pilot will be small, but will go from end to end: from executive/leadership roles through the development team and on to select users, product managers, and other stakeholders. -->
 1. 小さなステップで進む。すべてを一気に変えようとしてはいけない。パイロットプログラムから始めよう。パイロットプログラムは[[曳光弾開発]]の精神に基づき、小規模だがエンドツーエンド（経営陣やリーダーの役割から、開発チーム、選抜したユーザー、プロダクトマネージャー、ステークホルダーに至るまで）で行なうべきである。
 <!-- Begin with Agree To Try.  Although everyone in the organization will not be involved at first, you need to get agreement from the participants who will be involved in and affected by your pilot.  Make sure you’re ready to begin, as described in this habit. -->
-2. [[試すことに合意を得る]]ところから始める。最初から組織の全員が関与するわけではないだろうが、今後関与しそうな人やパイロットプログラムの影響を受けそうな人からは合意を得る必要がある。この習慣で説明されているように、始める準備ができているかどうかを確認しよう。
+2. [[試すことに合意する]]ところから始める。最初から組織の全員が関与するわけではないだろうが、今後関与しそうな人やパイロットプログラムの影響を受けそうな人からは合意を得る必要がある。この習慣で説明されているように、始める準備ができているかどうかを確認しよう。
 <!-- As part of agreeing to try, leaders and executives must commit to establish Psychological Safety. If team members don’t feel safe, do not proceed until they do. We recommend using anonymous surveys as a first step in evaluating team’s perceptions. -->
 3. 合意の一貫として、リーダーや経営陣は[[心理的安全性を作る]]ことに尽力する必要がある。**チームメンバーが安全を感じていなければ、安全が感じられるまで進めるべきではない**。チームの認識を確認する最初のステップとして、匿名のアンケートを使用することをお勧めする。
 <!-- Use Answers from Experiments as the fundamental engine to introduce new habits into your organization. -->

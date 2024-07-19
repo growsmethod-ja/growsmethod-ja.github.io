@@ -12,5 +12,5 @@ origin: https://growsmethod.com/grows_seeds.html
 3. [[偶然ではなく意図的]]
 4. [[プロキシではなく実体]]
 
-詳しく知るために：[[GROWSから始める]]
+詳しく知るために：[[GROWSを始める]]
 
