@@ -143,7 +143,7 @@ DevOps
 <!-- you may have more tasks to work on other than just delivering features.  -->
 <!-- Any items from the other two tracks need to be put on the queue as well. -->
 
-[[3トラックアタック]]のプラクティスが示すように、機能を提供する以外のタスクがあるかもしれない。
+[[3つのトラックで攻撃する]]のプラクティスが示すように、機能を提供する以外のタスクがあるかもしれない。
 他の2つのトラックの作業項目もキューに入れる必要がある。
 
 
