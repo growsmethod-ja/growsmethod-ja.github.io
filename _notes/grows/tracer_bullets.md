@@ -1,5 +1,5 @@
 ---
-title: 曳光弾開発
+title: GROWSの曳光弾開発
 origin: https://growsmethod.com/grows_tracer_bullets.html
 ---
 

@@ -76,7 +76,7 @@ origin: https://growsmethod.com/practices/index.html
 ## 個人向け
 ### ステージ1：安全と衛生
 - [[一度にひとつずつ]]
-- [[常にひとくちずつ]]
+- [[常に少しずつ]]
 - [[追加する前に捨てる]]
 - [[ビルド・パイプラインの自動化]]
 - [[曳光弾開発]]
@@ -114,3 +114,4 @@ origin: https://growsmethod.com/practices/index.html
 <!-- ### ステージ5：再現、教育、発明 -->
 
 ## ワークフロー
+[[GROWSメソッドのワークフロー]]
