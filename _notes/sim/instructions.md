@@ -50,7 +50,7 @@ origin: https://sim.growsmethod.com/instructions
 <!-- Activity cards contain value to deliver. Each Activity Card has two implementation options: one expensive, one cheap. The whole team discusses the options and collectively decides what to accept. -->
 1. アクティビティカードには、提供する価値が含まれている。実装の選択肢は2つある。高価なものと安価なものだ。チーム全体で選択肢について話し合い、何を受け入れるかを決定する。
 <!-- Any team member can pick an Activity Card for the team to work on. You click on the Activity Card to accept it. The selected card is instantly moved from the Activity Pool to the Accepted Activities at the top of the window. -->
-2. チームメンバーは誰でも、チームが取り組むアクティビティカードを選択できる。選択するにはアクティビティカードをクリックする。選択したカードは、画面上部にあるActivity Pool（アクティビティの貯蔵庫）からAccepted Activities（受け入れたアクティビティ）に即座に移動する。
+2. チームメンバーは誰でも、チームが取り組むアクティビティカードを選択できる。選択するにはアクティビティカードをクリックする。選択したカードは、Activity Pool（アクティビティの貯蔵庫）から画面上部にあるAccepted Activities（受け入れたアクティビティ）に即座に移動する。
 <!-- The score keeper then rolls the dice. This simulates the work the team completed, which may be from 1 to the highest number on the dice. -->
 3. スコアキーパーがサイコロを振る。これは、チームが完了させた作業をシミュレートしている。
 <!-- A Chance Card is dealt. Each Chance Card poses a problem, with several potential answers to choose from. The team discusses and selects the best answer. -->
