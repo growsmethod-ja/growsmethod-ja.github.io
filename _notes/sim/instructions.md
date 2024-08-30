@@ -19,7 +19,7 @@ origin: https://sim.growsmethod.com/instructions
 
 <!-- Each team should have around 5-8 people. The first thing you need to do is pick a team name. You logon to the simulation at sim.growsmethod.com using the workshop id (which we will provide) and the team name. -->
 
-チームの人数は5〜8人である。シミュレーションにログインするには、https://sim.growsmethod.com に（提供された）ワークショップIDを入力する。そして、チームを選択する。
+チームの人数は5〜8人である。シミュレーションにログインするには、<https://sim.growsmethod.com> に（提供された）ワークショップIDを入力する。そして、チームを選択する。
 
 <!-- On each team, choose one person to be the score keeper, everyone else will be team members.  -->
 <!-- The score keeper rolls the dice and reads out Chance cards. 
@@ -102,7 +102,7 @@ origin: https://sim.growsmethod.com/instructions
 繰り返しになるが、Hand of Fate（運命の手）カードは、チームの健康状態の特定の値に応じて、健康スコアに影響があるか、影響がないかのいずれかになる。
 
 <!-- Video Walkthrough -->
-## 動画
+## 動画による解説
 
 <!-- Please watch the following walkthough to get a better sense of how to play the simulation: -->
 シミュレーションのプレイ方法をよりよく理解するには、以下の動画を見てほしい。
